@@ -20,7 +20,7 @@
         
      ```
 ### Estructura
-     ```
+     
        ChatBotAI/
            node_modules/
            src/
@@ -28,4 +28,4 @@
            example.env
            package.json
            package-lock.json
-     ```
+    
