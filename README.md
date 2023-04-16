@@ -10,7 +10,7 @@
      ```bash
         $ npm install
      ```
-- Añadir tu API-KEY de [OpenAI](https://platform.openai.com/account/api-keys) a '''src/main.js'''
+- Añadir tu API-KEY de [OpenAI](https://platform.openai.com/account/api-keys) a **src/main.js**
      ```javascript
         # src/main.js:22-24
         const configuration = new Configuration({
@@ -19,7 +19,7 @@
         
      ```
 ### Estructura
-    ```bash
+     ```
         ChatBotAI/
            node_modules/
            src/
@@ -27,4 +27,4 @@
            example.env
            package.json
            package-lock.json
-    ```
+     ```
