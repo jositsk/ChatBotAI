@@ -28,4 +28,5 @@
            example.env
            package.json
            package-lock.json
-    
+### Plataformas
+## Linux
