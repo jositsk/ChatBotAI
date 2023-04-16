@@ -1,0 +1,7 @@
+ChatBotAI/
+  node_modules/
+  src/
+    main.js
+  .env
+  package.json
+  package-lock.json
