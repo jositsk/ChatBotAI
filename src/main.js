@@ -1,7 +1,3 @@
-// API-KEY: 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
-
-
-
 const {Client} = require("whatsapp-web.js");
 const qrcode = require("qrcode-terminal");
 const {Configuration, OpenAIApi} = require("openai");
@@ -24,7 +20,7 @@ client.on('ready',() =>{
 client.initialize();
 
 const configuration = new Configuration({
-    apiKey : "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",
+    apiKey : "YOUR-API-KEY",
 });
 const openai = new OpenAIApi(configuration);
 
